@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nateb463
 - 👀 I’m interested in ... video game development
 - 🌱 I’m currently learning ...C, python and HTML
-- 💞️ I’m looking to collaborate on ...anything, I am lloking to gain experience in all fields
+- 💞️ I’m looking to collaborate on ...anything, I am looking to gain experience in all fields
 - 📫 How to reach me ...email me @ nathaniel.barton@aol.com
 
 <!---
